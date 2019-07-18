@@ -1,0 +1,146 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "education": "Education",
+    "work": "Work Experience",
+    "skills": "Skills",
+    "projects": "Open Source"
+  },
+  "basics": {
+    "name": "Jason Palmer",
+    "email": "jason@jason-palmer.com",
+    "phone": "203.275.9589",
+    "location": {
+      "address": "Trumbull, CT"
+    },
+    "website": "https://github.com/palmerj3"
+  },
+  "education": [
+    {
+      "institution": "Southern Connecticut State University",
+      "location": "New Haven, CT",
+      "area": "Computer Science",
+      "studyType": "Some College",
+      "startDate": "Sep 2002",
+      "endDate": "June 2006"
+    }
+  ],
+  "work": [
+    {
+      "company": "Spotify",
+      "location": "New York, NY",
+      "position": "Senior Technical Product Manager - Web Infra / Test Infra",
+      "website": "",
+      "startDate": "Jan 2018",
+      "endDate": "Present",
+      "highlights": [
+        "Build the team",
+        "Establish OKRs and success metrics",
+        "Establish a long-term vision for web infra and test infra at Spotify",
+        "Ensure impact and adoption"
+      ]
+    },
+    {
+      "highlights": [
+        "Establish local and CI build time metrics",
+        "Revamp CI/CD pipeline for increased efficiency",
+        "Construct test flakiness detection & remediation tooling",
+        "Create custom VCR integration testing tool for web based on jest",
+        "Create custom NPM client for significantly decreased install times"
+      ],
+      "company": "Spotify",
+      "position": "Engineering Lead - Desktop Infra",
+      "location": "New York, NY",
+      "startDate": "Sep 2015",
+      "endDate": "Jan 2018"
+    },
+    {
+      "highlights": [
+        "Create adaptive streaming video playback stack on Desktop",
+        "Create new ad formats for Desktop"
+      ],
+      "company": "Spotify",
+      "position": "Engineering Lead - Monetization",
+      "location": "New York, NY",
+      "startDate": "Jun 2014",
+      "endDate": "Sep 2015"
+    },
+    {
+      "highlights": [
+        "Manage mobile and web engineers",
+        "Help PM and agile coach with delivery forecasting and roadmaps",
+        "Coach engineers for career advancement"
+      ],
+      "company": "Spotify",
+      "position": "Engineering Manager - Mobile",
+      "location": "New York, NY",
+      "startDate": "Jun 2013",
+      "endDate": "Jun 2014"
+    },
+    {
+      "highlights": [
+        "Construct bulk transactional email system",
+        "Construct audio ad playback stack on web player",
+        "Create radio app on web player",
+        "Construct internal dashboard tool for data scientists",
+        "Mentor engineers on web technology"
+      ],
+      "company": "Spotify",
+      "position": "Engineer",
+      "location": "New York, NY",
+      "startDate": "Nov 2011",
+      "endDate": "Jun 2013"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "PHP",
+        "Python",
+        "C/C++",
+        "Java",
+        "CSS/HTML",
+        null
+      ],
+      "name": "Programming Languages"
+    }
+  ],
+  "projects": [
+    {
+      "name": "jest-junit",
+      "description": "A very popular jest reporter for generating junit.xml files based on test results. Used to integrate jest with any CI provider.",
+      "url": "https://github.com/jest-community/jest-junit",
+      "keywords": [
+        "JavaScript"
+      ]
+    },
+    {
+      "keywords": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "name": "Jest",
+      "description": "The best test runner for web. I am part of the Jest Core Maintainers team.",
+      "url": "http://jestjs.io"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
